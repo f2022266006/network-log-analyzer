@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+reports/*.txt
+reports/*.json
+*.log
+!sample_data/auth.log
