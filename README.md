@@ -145,7 +145,7 @@ differently, so production tools require additional parsers and normalization.
 - Build a small dashboard
 - Add continuous ingestion and alert notifications
 
-## Suggested GitHub Topics
+## GitHub Topics
 
 `python` · `cybersecurity` · `log-analysis` · `network-security` ·
 `threat-detection` · `ssh` · `blue-team`
